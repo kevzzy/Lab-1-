@@ -10,7 +10,6 @@ for i in range(33):
     long_name += "Kim"
 
 print(long_name)
-     
 
 #Uppgift 2
 print("Uppgift 2")
