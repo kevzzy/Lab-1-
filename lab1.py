@@ -40,7 +40,7 @@ print (1 == 0.99999999999999999999)
 print("Uppgift 5")
 import math
 def summa(n):
-    result = sum (1/ (k**2) for k in range (1,n))
+    result = sum (1/ (k**2) for k in range (1,n+1))
     return result
 
 print ("När n går mot oändligheten så närmar sig summan värdet π**2/6 ≈ 1.64493406685")
